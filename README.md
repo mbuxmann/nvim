@@ -17,7 +17,7 @@ Personal Neovim configuration built on [LazyVim](https://lazyvim.github.io/).
 mv ~/.config/nvim ~/.config/nvim.bak
 
 # Clone this repo
-git clone git@github.com:<username>/nvim.git ~/.config/nvim
+git clone git@github.com:mbuxmann/nvim.git ~/.config/nvim
 
 # Launch Neovim — plugins install automatically
 nvim
